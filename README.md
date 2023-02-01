@@ -1,4 +1,5 @@
 # Doctor-s-Fee-Prediction
+A collaborative project completed within a week by a group of 6 members.
 
 ## Objective
 1. To scrape the information of doctors from Delhi, Mumbai and Bangalore registered on Practo.
