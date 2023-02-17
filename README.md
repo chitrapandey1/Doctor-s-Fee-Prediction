@@ -9,7 +9,6 @@ A collaborative project completed within a week by a group of 6 members.
 
 ## Tools Used
 1. Python - Beautiful Soup, Selenium, Pandas, Scikit-learn
-2. HTML & CSS
 
 
 ## Input Parameters
