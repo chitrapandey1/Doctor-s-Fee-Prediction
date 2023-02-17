@@ -6,11 +6,9 @@ A collaborative project completed within a week by a group of 6 members.
 
 2. To create a machine learning model that predicts the doctor’s consultation fee.
 
-3. Deploying the model trained on web.
-
 
 ## Tools Used
-1. Python - Beautiful Soup, Selenium, Pandas, Scikit-learn, Flask
+1. Python - Beautiful Soup, Selenium, Pandas, Scikit-learn
 2. HTML & CSS
 
 
